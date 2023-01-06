@@ -42,4 +42,4 @@
        . Le rapport montrant les différentes étapes dans le fichier README.MD  
        
  # Partie 1 : le micro-service customer-service qui permet de gérer les clients
-![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img.png)
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/img.png)
