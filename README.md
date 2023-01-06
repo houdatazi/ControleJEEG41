@@ -45,3 +45,38 @@
 ![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/img.png)
 # Partie 2 : Créer le micro-service inventory-service qui permet de gérer les produits
 ![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p2.png)
+# Partie 3 : Créer la Gateway Spring cloud Gateway avec une Configuration statique du système de routage
+• Configuration statique : 1ère méthode
+
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p3.png)
+# Partie 4 : Créer l'annuaire Eureka Discrovery Service
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p4.png)
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p4-1.png)
+# Partie 5 : Faire une configuration dynamique des routes de la gateway
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p5.png)
+# Partie 6 : Créer le service de facturation Billing-Service en utilisant Open Feign
+• La liste des factures dans la base de données H2
+
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p6.png)
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p6-1.png)
+# Partie 7 : Créer un client Web Angular (Clients, Produits, Factures)
+• Créer un projet Angular avec la commande : "ng new project_name"
+
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p7.png)
+# Partie 8 : Déployer le serveur keycloak
+• Téléchargement et installation de keycloak
+
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p8.png)
+# Partie 9 : Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+• Préparer l’environnement Keycloak :
+
+• Démarrer keycloak avec la comande "kc.bat start-dev"
+
+• Accéder à la console d’administration après la création d’un administrateur
+
+• Créer un realm qui va comporter les applications à sécuriser, les users, les rôles …
+![image](
+
+
+
+
