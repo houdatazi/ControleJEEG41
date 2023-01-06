@@ -43,3 +43,5 @@
        
  # Partie 1 : le micro-service customer-service qui permet de gérer les clients
 ![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/img.png)
+# Partie 2 : Créer le micro-service inventory-service qui permet de gérer les produits
+![image](https://github.com/houdatazi/ControleJEEG41/blob/main/img/p2.png)
